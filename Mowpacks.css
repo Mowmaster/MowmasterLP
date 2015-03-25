@@ -1,0 +1,17 @@
+/* this page needs to be re-made for CSS3 (CSS Three)*/
+
+h1 {color:#ff2200;}
+th {background-color:#7EF072;}
+a:link {color: black;}
+a:visited {color: black;}
+a:hover{color:blue;}
+td a:hover {color: blue;}
+a:active {color: black;}
+.status {background-color:#FFD0C7;
+	text-align: center;}
+.version {background-color:#FFFC91;}
+.mod {background-color:#FFFC91;}
+.dev {background-color:#FFFC91;}
+.forum {background-color:#B8DAE9;}
+.perm {background-color:#E1B9EA;}
+.link {background-color:#BDF1C3;}
